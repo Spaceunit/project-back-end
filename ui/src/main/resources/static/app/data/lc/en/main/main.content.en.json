@@ -1,0 +1,14 @@
+{
+  "lang":   "en",
+  "title":  "DealGrain",
+  "brand":  "DealGrain",
+  "button": {
+    "home":     "Home",
+    "dropdown": {
+      "Action": "Action",
+      "Another_action": "Another action",
+      "Something_else_here": "Something else here",
+      "One_more_separated_link": "lol"
+    }
+  }
+}
