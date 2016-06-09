@@ -1,0 +1,26 @@
+[
+  {
+    "id": "main",
+    "lc": {
+      "en": {
+        "content": "data/lc/en/main/main.content.en.json"
+      }
+    },
+  },
+  {
+    "id": "sign-up",
+    "lc": {
+      "en": {
+        "content": "data/lc/en/sign-up/sign-up.content.en.json"
+      }
+    },
+  },
+  {
+    "id": "profile",
+    "lc": {
+      "en": {
+        "content": "data/lc/en/profile/profile.content.en.json"
+      }
+    },
+  }
+]
