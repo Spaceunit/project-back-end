@@ -7,13 +7,16 @@ angular.module('test').component('test', {
         function TestController($location, $http) {
             //some do
             var self = this;
-            $http({
+            /*$http({
                 method: 'JSONP',
                 url: '/resource'
             }).success(function (status) {
                 console.log(data);
             }).error(function (status) {
                 console.log("Error");
+            });*/
+            $http.get('/resource').then(function(response) {
+                self.greeting = response.data;
             });
         }
     ]
