@@ -1,1 +1,0 @@
-//vendor.component.spec.js
